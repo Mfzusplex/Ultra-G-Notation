@@ -1,6 +1,5 @@
 
-
-###Ultra-G Notation
+### Ultra-G Notation
 Devised by the mathematician **Lucian Seaborgis** inspired by the **Steinhaus-Möser notation**, the **Ordinal Collapsing Function Hierarchy** and the** Fast Growing Hierarchy Functions.** The *Ultra-G* is an abbreviation for *Ultra-Geometric* --since its inspired on the **Steinhaus-Möser notation**.
 
 ---
